@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Evalua Componenet <GifItem /> should be match prop title and url at <GifItem /> component with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="La imagen más bonita"
+      src="https://postman"
+    />
+    <p>
+      La imagen más bonita
+    </p>
+  </div>
+</div>
+`;
